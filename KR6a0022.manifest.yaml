@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6a0022_000.yaml, hash: 'sha256:8a3d1e7c0e26cdf5ecf3e96493995cbcb42c8a4a98e3b9efa7b3d1eb3ec990c1'}
-  - {seq: 1, filename: KR6a0022_001.yaml, hash: 'sha256:e3ebacffee417c746464e0491fca6f6155ea576814cfd91c033baa0d94213dba'}
+  - {seq: 1, filename: KR6a0022_001.yaml, hash: 'sha256:00818058d865ebedbb7f84ea7ee5fd313cf462b4f422702ce8138ce96ddff0ec'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6a0022_001.markers.yaml, hash: 'sha256:eaadebed30386572c925b3c2ff26942bfc248923f9349bdaa566104fdef4e586'}
+  - {seq: 0, role: markers, filename: assets/KR6a0022_000.markers.yaml, hash: 'sha256:9da42af5eb94a4aa4e11bbb9fb333fe5a535a50ef3117026bf33fe4d2f7c370e'}
+  - {seq: 1, role: markers, filename: assets/KR6a0022_001.markers.yaml, hash: 'sha256:086f37f30d75a5adf284d77b31f8490e0c7f7ca80b1e73e8b9ee7b9edfbc23ee'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,7 +46,4 @@ table_of_contents:
   label: 佛說寂志果經
   type: juan
   level: 1
-hash: sha256:1f133042f9c7c2589541bfb23cd91c878974654548b9250d9a0e577e6785bec0
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:95ea15c874cf3c1cda8691e9f9238d4f95c560f7fe23561a700569da6e7a4b94
